@@ -10,7 +10,7 @@ print "Roosters", 100 - 25 * 3 % 4
 # Prints the line.
 print "Now I will count my eggs:"
 
-# Calculates modulo: 4 % 2 (3 + 2 + 1 - 5 + 0 - 1 / 4 + 6),
+# Calculates modulus: 4 % 2 (3 + 2 + 1 - 5 + 0 - 1 / 4 + 6),
 # performs division: 1 / 4 and rounds down to 0 (3 + 2 + 1 - 5 + 0 - 0 + 6),
 # performs addition: (7).
 print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
